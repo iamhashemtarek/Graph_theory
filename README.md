@@ -1,3 +1,2 @@
 # Graph_theory
-DFS
-BFS
+DFS & BFS
